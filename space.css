@@ -1,0 +1,17 @@
+body{
+    height:4000px;
+    background-image:url(../../assets/images/sunimage.png),url(../../assets/images/earth.png),url(../../assets/images/star\ galaxey.jpg);
+    background-repeat:no-repeat,no-repeat,repeat;
+    background-size:50%,25%,100%;
+    background-position:-350px -350px,bottom left,center;
+    background-attachment:fixed,scroll,scroll;
+
+}
+#rocket{
+    width:100%;
+}
+#rockmarquee{
+    width:30%;
+    height:100%;
+    float:right;
+}
